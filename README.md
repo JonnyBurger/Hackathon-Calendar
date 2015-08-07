@@ -53,6 +53,7 @@ Inspired by the [Developer Conferences](https://github.com/MurtzaM/Developer-Con
 | [Lesbians Who Tech Summit Hackathon](http://www.eventbrite.com/e/lesbians-who-tech-and-allies-new-york-summit-tickets-16923662129?aff=es2) | New York, NY | 10.1 - 10.4 |
 | [SD Hacks](http://sdhacks.io/) | San Diego, CA | 10.2 - 10.4 |
 | [THE Port Hackathon at CERN](http://theport.ch/) | Geneva, Switzerland | 10.2 - 10.4 |
+| [HackZurich](http://hackzurich.com/) | Zurich, Switzerland | 10.2 - 10.4 |
 | [VandyHacks](http://www.vandyhacks.org/) | Nashville, TN | 10.2 - 10.4 |
 | [VR Hackathon Cameroon](http://vrhackathon.com/cameroon.html) | Yaounde, Cameroon | 10.2 - 10.4 |
 | [Traffic Jam](http://trafficjam.to/) | Toronto, Canada | 10.2 - 10.4 |
